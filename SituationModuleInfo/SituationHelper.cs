@@ -15,12 +15,12 @@ namespace ScienceSituationInfo
             UsageMaskTemplates = new Dictionary<int, string>
             {
                 {-1, "<i><color=red>Experiment CAN'T be run at all</color></i>"},
-                {0, "<i><color=green>Experiment can always be run</color></i>"},
-                {1, "<i><color=magenta>Experiment can be run if vessel is UNDER CONTROL</color></i>"},
-                {2, "<i><b><color=green>Experiment can be run if vessel is CREWED</color></b></i>"},
-                {4, "<i><b><color=green>Experiment can be run if part contains crew</color><b></i>"},
-                {5, "<i><b><color=green>Experiment can be run if part contains crew</color><b></i>"},
-                {8, "<i><color=purple>Experiment can be run if CREW HAVE SCIENTIST</color></i>"}
+                {0, "<i><color=white>Experiment can always be run</color></i>"},
+                {1, "<i><b><color=green>Experiment can be run if vessel is UNDER CONTROL</color></b></i>"},
+                {2, "<i><b><color=#008000>Experiment can be run if vessel is CREWED</color></b></i>"},
+                {4, "<i><b><color=yellow>Experiment can be run if part contains crew</color></b></i>"},
+                {5, "<i><b><color=yellow>Experiment can be run if part contains crew</color></b></i>"},
+                {8, "<i><b><color=purple>Experiment can be run if CREW HAS SCIENTIST</color></b></i>"}
             };
 
             Initialize();
@@ -36,7 +36,7 @@ namespace ScienceSituationInfo
             foreach (var situation in situations)
             {
                 SituationTemplates.Add((ExperimentSituations) situation,
-                    b => string.Format("{0}{1}", ParseSituation((ExperimentSituations) situation), 
+                    b => string.Format("<b>{0}</b>{1}", ParseSituation((ExperimentSituations) situation), 
                         b ? AllowedMark : DisallowedMark));
             }
         }
