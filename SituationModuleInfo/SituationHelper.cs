@@ -46,6 +46,5 @@ namespace ScienceSituationInfo
             var rgx = new Regex("(?<!^)([A-Z])");
             return rgx.Replace(situation.ToString(), " $1");
         }
-
     }
 }

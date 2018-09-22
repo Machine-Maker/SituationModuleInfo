@@ -1,0 +1,7 @@
+1.3.2
+	Adopted by LGG
+	Updated .version file (fixed syntax error)
+	Added AssemblyVersion.tt to add info to dll based on .version file
+	Added files for development builds
+	Added jenkins.txt
+	Added License.txt 
