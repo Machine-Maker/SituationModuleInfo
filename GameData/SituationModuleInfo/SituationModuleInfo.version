@@ -1,7 +1,12 @@
 {
   "NAME": "SituationModuleInfo",
-  "URL": "http://ksp-avc.cybutek.net/version.php?id=375",
+  "URL": "https://raw.githubusercontent.com/DennyTX/SituationModuleInfo/master/SituationModuleInfo/SituationModuleInfo.version",
   "DOWNLOAD": "http://spacedock.info/mod/1008/Extended%20information%20about%20scientific%20experiments%20in%20VAB",
+  "GITHUB" :
+  {
+	"USERNAME" : "linuxgurugamer",
+	"REPOSITORY" : "SituationModuleInfo"
+  },
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 3,
