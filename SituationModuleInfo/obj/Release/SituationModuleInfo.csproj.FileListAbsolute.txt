@@ -1,0 +1,6 @@
+D:\KSP_131_test\GameData\OLDD\SituationModuleInfo\ScienceSituationInfo.dll
+D:\KSP_131_test\GameData\OLDD\SituationModuleInfo\ScienceSituationInfo.pdb
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\SituationModuleInfo.csproj.CoreCompileInputs.cache
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\SituationModuleInfo.csproj.CopyComplete
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\ScienceSituationInfo.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\ScienceSituationInfo.pdb
