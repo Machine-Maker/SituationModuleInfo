@@ -1,0 +1,16 @@
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\ScienceSituationInfo.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\ScienceSituationInfo.pdb
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\Assembly-CSharp.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\UnityEngine.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\UnityEngine.UI.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\KSPTrackIR.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\KSPAssets.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\Mono.Cecil.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\Ionic.Zip.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\bin\Release\TDx.TDxInput.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\SituationModuleInfo.csproj.CoreCompileInputs.cache
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\SituationModuleInfo.csproj.CopyComplete
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\ScienceSituationInfo.dll
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\ScienceSituationInfo.pdb
+D:\Users\jbb\github\SituationModuleInfo\SituationModuleInfo\obj\Release\SituationModuleInfo.csprojResolveAssemblyReference.cache

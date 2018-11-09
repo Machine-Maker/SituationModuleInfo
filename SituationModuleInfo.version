@@ -1,7 +1,7 @@
 {
   "NAME": "SituationModuleInfo",
-  "URL": "https://raw.githubusercontent.com/DennyTX/SituationModuleInfo/master/SituationModuleInfo/SituationModuleInfo.version",
-  "DOWNLOAD": "http://spacedock.info/mod/1008/Extended%20information%20about%20scientific%20experiments%20in%20VAB",
+  "URL": "http://ksp.spacetux.net/avc/SituationModuleInfo",
+  "DOWNLOAD": "http://spacedock.info/mod/2000",
   "GITHUB" :
   {
 	"USERNAME" : "linuxgurugamer",
@@ -10,7 +10,7 @@
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 3,
-    "PATCH": 2,
+    "PATCH": 3,
     "BUILD": 0
   },
   "KSP_VERSION": {

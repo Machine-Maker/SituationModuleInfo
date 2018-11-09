@@ -1,4 +1,4 @@
-1.3.2
+1.3.3
 	Adopted by LGG
 	Updated .version file (fixed syntax error)
 	Added AssemblyVersion.tt to add info to dll based on .version file
