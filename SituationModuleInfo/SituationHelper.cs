@@ -20,7 +20,9 @@ namespace ScienceSituationInfo
                 {2, "<i><b><color=#008000>Experiment can be run if vessel is CREWED</color></b></i>"},
                 {4, "<i><b><color=yellow>Experiment can be run if part contains crew</color></b></i>"},
                 {5, "<i><b><color=yellow>Experiment can be run if part contains crew</color></b></i>"},
-                {8, "<i><b><color=purple>Experiment can be run if CREW HAS SCIENTIST</color></b></i>"}
+                {8, "<i><b><color=purple>Experiment can be run if CREW HAS SCIENTIST</color></b></i>"},
+                {9, "<i><b><color=purple>Experiment can be run if CREW HAS SCIENTIST</color></b></i>"},
+                {12, "<i><b><color=purple>Experiment can be run if CREW HAS SCIENTIST</color></b></i>"}
             };
 
             Initialize();
